@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValeriaSevostyanova
 - 👀 I’m interested in Python, HTML, CSS, JavaScript
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-          https://t.me/lerkkx 
+- 📫 How to reach me : https://t.me/lerkkx 
 
 <!---
 ValeriaSevostyanova/ValeriaSevostyanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
