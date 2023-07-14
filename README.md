@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValeriaSevostyanova
 - 👀 I’m interested in Python, HTML, CSS, JavaScript
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me : https://t.me/lerkkx 
 
 <!---
